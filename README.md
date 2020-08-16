@@ -12,6 +12,7 @@ If you think something is wrong or if you would like to add something, open an i
 
 # Pre-S1
 | Build version           | Engine version  | Net CL   | Build date | Manifest                                 | Notes      |
+| ----------------------- | --------------- | -------- | ---------- | ---------------------------------------- | ---------- |
 | Release-Live-CL-3484806 | 4.16.0-3484806  | 3484806  | 2017-06-12 |                                          | OT 11      |
 | Release-Cert-CL-3541083 | 4.16.0-3541083  | 3536423  | 2017-07-21 |                                          | StW EA     |
 
