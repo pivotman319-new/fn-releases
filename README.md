@@ -10,10 +10,14 @@ If you think something is wrong or if you would like to add something, open an i
 **Manifest:** CDN manifest id  
 **Notes:** Any additional interesting notes
 
+# Pre-S1
+| Build version           | Engine version  | Net CL   | Build date | Manifest                                 | Notes      |
+| Release-Live-CL-3484806 | 4.16.0-3484806  | 3484806  | 2017-06-12 |                                          | OT 11      |
+| Release-Cert-CL-3541083 | 4.16.0-3541083  | 3536423  | 2017-07-21 |                                          | StW EA     |
+
 # Season 1
 | Build version           | Engine version  | Net CL   | Build date | Manifest                                 | Notes      |
 | ----------------------- | --------------- | -------- | ---------- | ---------------------------------------- | ---------- |
-| Cert-CL-3541083         | 4.16.0-3541083  | 3536423  |            |                                          |            |
 | Release-Cert-CL-3681159 | 4.16.0-3681159  | 3603940  |            |                                          |            |
 | Release-Cert-CL-3700114 | 4.16.0-3700114  | 3603940  | 2017-09-17 |                                          | Patch 1.7  |
 | Release-Live-CL-3724489 | 4.16.0-3724489  | 3709086  | 2017-09-28 |                                          | Patch 1.8  |
@@ -24,14 +28,14 @@ If you think something is wrong or if you would like to add something, open an i
 # Season 2
 | Build version           | Engine version  | Net CL   | Build date | Manifest                                 | Notes      |
 | -----------------       | --------------- | -------- | ---------- | ---------------------------------------- | ---------- |
-| Release-Cert-CL-3807424 | 4.19.0-3807424  | 3804408  |            |                                          | Patch 1.11 |
+| Release-Cert-CL-3807424 | 4.19.0-3807424  | 3804408  | 2017-12-14 |                                          | Patch 1.11 |
 | Release-Cert-CL-3825894 | 4.19.0-3825894  | 3824727  | 2018-01-08 |                                          | Patch 2.1  |
 | 2.2.0                   |                 |          |            |                                          |            |
 | 2.3.0                   |                 |          |            |                                          |            |
 | 2.4.0                   |                 |          |            |                                          |            |
 | 2.4.2                   |                 |          |            |                                          |            |
-| 2.4.x-CL-3876086        |                 |          |            |                                          |            |
-| 2.5-CL-3889387          |                 |          |            |                                          |            |
+| 2.4.x-CL-3876086        | 4.19.0-3876086  | 3873824  | 2018-02-07 |                                          |            |
+| 2.5-CL-3889387          | 4.20.0-3889387  | 3886413  | 2018-02-14 |                                          |            |
 
 # Season 3
 | Build version     | Engine version  | Net CL   | Build date | Manifest                                 |
@@ -42,7 +46,7 @@ If you think something is wrong or if you would like to add something, open an i
 | 3.2-CL-3929794    |                 |          |            |                                          |
 | 3.2-CL-3935073    | 4.20.0-3935073  | 3924161  |            |                                          |
 | 3.3-CL-3942182    |                 |          |            |                                          |
-| 3.3-CL-3948073    |                 |          |            |                                          |
+| 3.3-CL-3948073    | 4.20.0-3948073  | 3939459  | 2018-03-15 |                                          |
 | 3.4-CL-3968866    |                 |          |            |                                          |
 | 3.4-CL-3973340    | 4.20.0-3973340  | 3966836  | 2018-03-29 |                                          |
 | 3.5-CL-3994867    |                 |          |            |                                          |
